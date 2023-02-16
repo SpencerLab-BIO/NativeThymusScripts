@@ -15,3 +15,8 @@ Collection of scripts used for analysis of data in "Intravital Two-Photon Micros
 - `getDistanceVolumeFromDistanceMap()` - Returns mask corresponding to some distance from edge of Distance Map. Assumes Distance Map generated from [3D Suite 3D Distance Map](https://mcib3d.frama.io/3d-suite-imagej/plugins/Binary/3D-Distance-Map-EVF/).
 - `getChannelandDownscale()` - Get channels from stitched slices. Open each channel. Adjust pixel parameters. Downscale image by 2. Save stack to scaled folder.
 - `segmentThymus()` - Segment Vessel Data with Labkit. Assumes folder contains stack of individual tif files which correspond to single 3D zplane. Saves files to new folder.
+
+# 3D Model:
+3D Model of Adhesion Thymus Holder
+- `Adhesion Holder Design.pdf` - Diagram of Adhesion Thymus Holder.
+- `Roundedv5.scad` - Openscad model of the Adhesion Thymus Holder.
