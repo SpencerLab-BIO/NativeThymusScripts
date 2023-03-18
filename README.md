@@ -20,3 +20,4 @@ Collection of scripts used for analysis of data in "Intravital Two-Photon Micros
 3D Model of Adhesion Thymus Holder
 - `Adhesion Holder Design.pdf` - Diagram of Adhesion Thymus Holder.
 - `Roundedv5.scad` - Openscad model of the Adhesion Thymus Holder.
+- `Roundedv6.scad` - Openscad model of the Adhesion Thymus Holder. THe size of the ring is automatically included on the side of the holder. The ring of the holder will also adjust its position when the size is changed
